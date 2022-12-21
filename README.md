@@ -1,5 +1,5 @@
-# Olá, me chamo Endrio! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, meu nome é Endrio! 
+## Seja bem vindo ao meu perfil GitHub 👋
  
   
  <!-- 
