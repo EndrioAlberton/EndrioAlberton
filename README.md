@@ -22,11 +22,11 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
  
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Contagem de acesso: </h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EndrioAlberton}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Linguagens usadas: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndrioAlberton&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
