@@ -30,6 +30,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndrioAlberton&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Status do pefil</h4>
+<h4 align="center">Status do perfil: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EndrioAlberton&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
