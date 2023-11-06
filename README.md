@@ -9,7 +9,7 @@
 <div align="center">
 <a href = "endrio.alberton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/endrio-alberton-8482a6223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://portifolio-topaz-beta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio -8A2BE2" target="_blank"></a>   
+<a href="https://portifolio-topaz-beta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge" target="_blank"></a>   
 </div>
   
 <h2 align="center">Tecnologias</h2> 
